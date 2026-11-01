@@ -1,9 +1,9 @@
 {
   "library": "Living Walls Dynamic Asset Library",
-  "version": "2.0.0",
-  "description": "30 fondos verticales animados en SVG con animaciones SVG/CSS nativas. Obras vectoriales originales generadas desde cero para Living Walls.",
+  "version": "2.1.0",
+  "description": "30 escenas vectoriales SVG animadas y 5 ilustraciones JPG cinematográficas nuevas. Las JPG son imágenes base estáticas; necesitan capas y efectos en la app para convertirse en fondos dinámicos.",
   "rights": "Original procedural vector artwork created for this project. No third-party images, characters, logos, fonts, or textures are embedded. Permission is granted to use, modify, and integrate these assets in Living Walls.",
-  "important": "These are animated SVG scene assets. Android app integration must render them with an SVG-capable WebView/renderer or recreate their layers/effects in the native WallpaperService. Test actual live wallpaper playback on device.",
+  "important": "Los recursos SVG 001-030 contienen animaciones SVG. Los JPG 031-035 son ilustraciones estáticas de alta calidad para servir como base visual; no presentarlos como fondos animados hasta implementar movimiento real por capas/partículas/parallax en la app Android.",
   "categories": [
     {
       "id": "anime",
@@ -428,6 +428,71 @@
       "animation": "embedded SVG animate/animateTransform elements; continuous loops",
       "license": "Original artwork created from scratch for Living Walls; no third-party assets",
       "file": "assets/lw-030.svg"
+    },
+    {
+      "id": "LW-031",
+      "name": "Ultra Energy",
+      "category": "anime",
+      "description": "Guerrero de anime de cabello plateado rodeado de energía azul y violeta.",
+      "type": "static-base",
+      "format": "JPG",
+      "resolution": "720x1280",
+      "aspect_ratio": "9:16",
+      "animation": "static image; implement layered parallax, particles, lighting and motion effects in Android app before advertising as a live wallpaper",
+      "license": "Original AI-generated artwork for Living Walls; check character/IP rights before public commercial distribution",
+      "file": "assets/LW-031-ultra-energy.jpg"
+    },
+    {
+      "id": "LW-032",
+      "name": "Neon Rider",
+      "category": "cyberpunk",
+      "description": "Motorista en una megaciudad nocturna bañada en neón y lluvia.",
+      "type": "static-base",
+      "format": "JPG",
+      "resolution": "720x1280",
+      "aspect_ratio": "9:16",
+      "animation": "static image; implement layered parallax, particles, lighting and motion effects in Android app before advertising as a live wallpaper",
+      "license": "Original AI-generated artwork for Living Walls; check character/IP rights before public commercial distribution",
+      "file": "assets/LW-032-neon-rider.jpg"
+    },
+    {
+      "id": "LW-033",
+      "name": "Dragon Kingdom",
+      "category": "fantasia",
+      "description": "Dragón colosal sobre un castillo entre fuego y cenizas.",
+      "type": "static-base",
+      "format": "JPG",
+      "resolution": "720x1280",
+      "aspect_ratio": "9:16",
+      "animation": "static image; implement layered parallax, particles, lighting and motion effects in Android app before advertising as a live wallpaper",
+      "license": "Original AI-generated artwork for Living Walls; check character/IP rights before public commercial distribution",
+      "file": "assets/LW-033-dragon-kingdom.jpg"
+    },
+    {
+      "id": "LW-034",
+      "name": "Cosmic Voyager",
+      "category": "scifi",
+      "description": "Nave espacial atravesando un campo estelar junto a un planeta.",
+      "type": "static-base",
+      "format": "JPG",
+      "resolution": "720x1280",
+      "aspect_ratio": "9:16",
+      "animation": "static image; implement layered parallax, particles, lighting and motion effects in Android app before advertising as a live wallpaper",
+      "license": "Original AI-generated artwork for Living Walls; check character/IP rights before public commercial distribution",
+      "file": "assets/LW-034-cosmic-voyager.jpg"
+    },
+    {
+      "id": "LW-035",
+      "name": "Sakura Sanctuary",
+      "category": "naturaleza",
+      "description": "Santuario junto al agua bajo cerezos en flor y luna llena.",
+      "type": "static-base",
+      "format": "JPG",
+      "resolution": "720x1280",
+      "aspect_ratio": "9:16",
+      "animation": "static image; implement layered parallax, particles, lighting and motion effects in Android app before advertising as a live wallpaper",
+      "license": "Original AI-generated artwork for Living Walls; check character/IP rights before public commercial distribution",
+      "file": "assets/LW-035-sakura-sanctuary.jpg"
     }
   ]
 }
