@@ -1,0 +1,9 @@
+LIVING WALLS DYNAMIC ASSET LIBRARY — DERECHOS DE USO
+
+Los 30 recursos SVG de este repositorio son ilustraciones vectoriales procedurales originales generadas desde cero para Living Walls. No contienen fotografías, personajes, logotipos, marcas, texturas ni otros recursos visuales de terceros.
+
+Se concede permiso para usar, copiar, modificar e integrar estos recursos en la aplicación Living Walls, incluidas versiones distribuidas de la aplicación. No se requiere atribución.
+
+Los recursos no son personajes oficiales ni están afiliados a franquicias comerciales. Las animaciones están implementadas mediante elementos SVG animados y deben reproducirse con un renderizador compatible.
+
+Esta declaración describe el origen de los archivos de este repositorio; no constituye asesoramiento jurídico ni una garantía universal sobre derechos en todas las jurisdicciones.
